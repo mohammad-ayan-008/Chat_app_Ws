@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+     xmlns:android="http://schemas.android.com/apk/res/android"
+     xmlns:app="http://schemas.android.com/apk/res-auto"
+     android:layout_height="match_parent"
+     android:layout_width="match_parent"
+     android:orientation="vertical"
+     android:id="@+id/root_view">
+
+    <androidx.recyclerview.widget.RecyclerView
+         android:layout_height="200dp"
+         android:layout_width="match_parent"
+         android:layout_weight="1"
+         android:id="@+id/chat_view" />
+
+    <LinearLayout
+         android:layout_height="50dp"
+         android:layout_width="match_parent"
+         android:orientation="horizontal"
+         android:id="@+id/Text_View">
+
+        <EditText
+             android:layout_height="50dp"
+             android:layout_width="match_parent"
+             android:layout_weight="1"
+             android:id="@+id/text_to_send" />
+
+        <Button
+             android:layout_height="match_parent"
+             android:layout_width="wrap_content"
+             android:text="send"
+             android:id="@+id/send" />
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,95 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/WASSUP/app/src/main/java/com/stream/wassup/MainActivity.java",
+      "selection": {
+        "end": {
+          "column": 12,
+          "index": 1735,
+          "line": 50
+        },
+        "start": {
+          "column": 12,
+          "index": 1735,
+          "line": 50
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/WASSUP/app/src/main/res/layout/activity_main.xml",
+      "selection": {
+        "end": {
+          "column": 15,
+          "index": 1137,
+          "line": 35
+        },
+        "start": {
+          "column": 15,
+          "index": 1137,
+          "line": 35
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/WASSUP/app/build.gradle.kts",
+      "selection": {
+        "end": {
+          "column": 4,
+          "index": 987,
+          "line": 47
+        },
+        "start": {
+          "column": 4,
+          "index": 987,
+          "line": 47
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/WASSUP/app/src/main/AndroidManifest.xml",
+      "selection": {
+        "end": {
+          "column": 43,
+          "index": 459,
+          "line": 13
+        },
+        "start": {
+          "column": 43,
+          "index": 459,
+          "line": 13
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/WASSUP/app/src/main/res/layout/left_chat.xml",
+      "selection": {
+        "end": {
+          "column": 35,
+          "index": 251,
+          "line": 5
+        },
+        "start": {
+          "column": 35,
+          "index": 251,
+          "line": 5
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/WASSUP/app/src/main/res/layout/right_chat.xml",
+      "selection": {
+        "end": {
+          "column": 33,
+          "index": 251,
+          "line": 5
+        },
+        "start": {
+          "column": 33,
+          "index": 251,
+          "line": 5
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/WASSUP/app/src/main/res/layout/left_chat.xml"
+}

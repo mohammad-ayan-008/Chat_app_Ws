@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+     xmlns:android="http://schemas.android.com/apk/res/android"
+     xmlns:app="http://schemas.android.com/apk/res-auto"
+     android:layout_height="wrap_content"
+     android:layout_marginTop="20dp"
+     android:layout_width="match_parent">
+
+    <LinearLayout
+         
+         android:layout_height="wrap_content"
+         
+         android:layout_width="wrap_content"
+         android:background="@drawable/right_chat_type"
+         android:layout_alignParentRight="true"
+         android:id="@+id/coordinator">
+
+        <androidx.cardview.widget.CardView
+             android:layout_height="match_parent"
+             android:layout_width="match_parent"
+             android:layout_margin="10dp"
+             app:cardBackgroundColor="#AB60FF"
+             app:cardCornerRadius="15dp">
+
+            <TextView
+                 android:layout_height="wrap_content"
+                 android:layout_width="wrap_content"
+                 android:background="@drawable/right_chat_type"
+                 android:layout_margin="10dp"
+                 android:id="@+id/Text_me"
+                 android:text="hello" />
+
+        </androidx.cardview.widget.CardView>
+
+    </LinearLayout>
+
+</RelativeLayout>
